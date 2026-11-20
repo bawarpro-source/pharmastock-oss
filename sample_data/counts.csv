@@ -1,0 +1,5 @@
+branch,sku,batch,quantity
+Demo Branch A,MED001,B001,96
+Demo Branch A,MED002,B002,43
+Demo Branch B,MED001,B003,50
+Demo Branch B,MED999,B999,2

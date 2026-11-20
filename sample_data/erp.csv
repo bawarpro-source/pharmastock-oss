@@ -1,0 +1,5 @@
+branch,sku,product,batch,expiry,quantity,unit_cost_iqd
+Demo Branch A,MED001,Sample Tablets 20mg,B001,2027-12,100,2500
+Demo Branch A,MED002,Sample Syrup 100ml,B002,2028-06,40,4500
+Demo Branch B,MED001,Sample Tablets 20mg,B003,2027-11,50,2500
+Demo Branch B,MED003,Sample Cream 30g,B004,2028-03,30,6000
